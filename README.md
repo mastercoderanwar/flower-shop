@@ -1,6 +1,6 @@
 ### Senior Project Manager | Full-Stack Developer | DevOps Enthusiast  
 ####  
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm a results-driven Project Manager and software professional with over 16 years of experience leading diverse IT projects, from hospital management systems to LMS and DevOps deployments. I bring a unique blend of technical depth and leadership, having worked hands-on with cloud infrastructure, enterprise software, and Agile methodologies.
 ## 🛠️ Technical Skills
